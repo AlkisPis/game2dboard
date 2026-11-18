@@ -1,8 +1,9 @@
 This is a standalone module of 'game2dboard' package the repository if which can be found at
-https://github.com/mjbrusso/game2dboard/tree/master/game2dboard
+https://github.com/mjbrusso/game2dboard/tree/master/game2dboard.
+It is published mainly for game developers who are already familiar with the original package.
  
 It consists of 4 modules: Board.py, Cell.py, ImageMap.py, and outputbar.py, all of which were included in the
-'gameedboard' folder of the original package.
+'game2dboard' folder of the original package.
 
 Besides the 4 in 1 consolidation, major changes done are listed below:
 1) Allowing the setting of a resources path other than the default 'gb_res'.
@@ -14,8 +15,9 @@ Besides the 4 in 1 consolidation, major changes done are listed below:
 
 The module is in pre-beta testing stage. People using it are encouraged to post in the Issues section any problem they may run into.
 As you can see, there's no 'setup.py', since this is a standalone 4 in 1 module. You have just to download and import 'game2dboard.py'.
+It is advisable that the people using this module are already familiar with the original package.
 
-Below are two screenshots of the first game I created using this module. 
+Below are two screenshots of the first game I created using this module. No images are used for any cell.
 
 <img width="522" height="534" alt="image" src="https://github.com/user-attachments/assets/df2ae057-e277-4279-9196-4a27dfc44639" />
 <img width="685" height="672" alt="image" src="https://github.com/user-attachments/assets/bab0a44d-af0f-4b0c-a284-e9f24869cca3" />
