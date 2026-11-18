@@ -1,7 +1,21 @@
-This module is in pre-beta testing stage. People using it are encouraged to post in the Issues section any problem they may run into.
-As you can see, there's no 'setup.py', since this is a standalone 4 in 1 module. You have just to download 'game2dboard.py'.
+This is a standalone module of 'game2dboard' package the repository if which can be found at
+https://github.com/mjbrusso/game2dboard/tree/master/game2dboard
+ 
+It consists of 4 modules: Board.py, Cell.py, ImageMap.py, and outputbar.py, all of which were included in the
+'gameedboard' folder of the original package.
 
-Below is a screenshot of the first game I created using this module.
+Besides the 4 in 1 consolidation, major changes done are listed below:
+1) Allowing the setting of a resources path other than the default 'gb_res'.
+2) 'set_textcolor()' global function added for getting and setting foreground (text) color for every cell, dynamically
+   and individually. 
+3) 'cell_bgcolor()' global function added for getting and setting the background color of individual cells. 
+4) 'set_textfont()' global function added for setting a general font for every cell, dynamically and individually. 
+5) Font name and font weight options added to font size in the 'outputbar.py'.
+
+The module is in pre-beta testing stage. People using it are encouraged to post in the Issues section any problem they may run into.
+As you can see, there's no 'setup.py', since this is a standalone 4 in 1 module. You have just to download and import 'game2dboard.py'.
+
+Below are two screenshots of the first game I created using this module. 
 
 <img width="522" height="534" alt="image" src="https://github.com/user-attachments/assets/df2ae057-e277-4279-9196-4a27dfc44639" />
 <img width="685" height="672" alt="image" src="https://github.com/user-attachments/assets/bab0a44d-af0f-4b0c-a284-e9f24869cca3" />
@@ -9,7 +23,7 @@ Below is a screenshot of the first game I created using this module.
 
 
 
-The original README.md from https://github.com/mjbrusso/game2dboard/blob/master/README.md follows, as it is. In due time I will create a new one adapted for the present case.
+The original README.md from https://github.com/mjbrusso/game2dboard/blob/master/README.md follows, as it is. In due time, and if there is interest, I will create a new one adapted for the present case.
 
 # <img align="left" width="80" height="80" style="padding-right:50" src="https://raw.githubusercontent.com/mjbrusso/game2dboard/master/images/logo80x80.png"> &nbsp;&nbsp;game2dboard  
 
