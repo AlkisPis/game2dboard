@@ -1,6 +1,14 @@
 This module is in pre-beta testing stage. People using it are encouraged to post in the Issues section any problem they may run into.
 As you can see, there's no 'setup.py', since this is a standalone 4 in 1 module. You have just to download 'game2dboard.py'.
 
+Below is a screenshot of the first game I created using this module.
+
+<img width="522" height="534" alt="image" src="https://github.com/user-attachments/assets/df2ae057-e277-4279-9196-4a27dfc44639" />
+<img width="685" height="672" alt="image" src="https://github.com/user-attachments/assets/bab0a44d-af0f-4b0c-a284-e9f24869cca3" />
+
+
+
+
 The original README.md from https://github.com/mjbrusso/game2dboard/blob/master/README.md follows, as it is. In due time I will create a new one adapted for the present case.
 
 # <img align="left" width="80" height="80" style="padding-right:50" src="https://raw.githubusercontent.com/mjbrusso/game2dboard/master/images/logo80x80.png"> &nbsp;&nbsp;game2dboard  
