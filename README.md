@@ -1,3 +1,7 @@
+This module is in pre-beta testing stage. People using it are encouraged to post in the Issues section any problem they may run into.
+As you can see, there's no 'setup.py', since this is a standalone 4 in 1 module. You have just to download 'game2dboard.py'.
+
+The original README.md from https://github.com/mjbrusso/game2dboard/blob/master/README.md follows, as it is. In due time I will create a new one adapted for the present case.
 
 # <img align="left" width="80" height="80" style="padding-right:50" src="https://raw.githubusercontent.com/mjbrusso/game2dboard/master/images/logo80x80.png"> &nbsp;&nbsp;game2dboard  
 
@@ -275,7 +279,7 @@ Use the [issue tracker](https://github.com/mjbrusso/game2dboard/issues) to submi
 
 ### Translating
 
-You can contribute by translating this document into other languages ​​(except *en* and *pt_br*).
+You can contribute by translating this document into other languages (except *en* and *pt_br*).
 
 ### Submitting a pull request
 
@@ -285,4 +289,5 @@ If you can improve anything in this project, feel free to add a [pull request](h
 ## License
 
 game2dboard is under [MIT license](https://github.com/mjbrusso/game2dboard/blob/master/LICENSE). It can be reused within proprietary software provided that all copies of the licensed software include a copy of the MIT License terms and the copyright notice.
+
 
