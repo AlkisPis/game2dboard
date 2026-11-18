@@ -1,4 +1,4 @@
-This is a standalone module of 'game2dboard' package the repository if which can be found at
+This is a standalone module of 'game2dboard' package, the repository if which can be found at
 https://github.com/mjbrusso/game2dboard/tree/master/game2dboard.
 It is published mainly for game developers who are already familiar with the original package.
  
